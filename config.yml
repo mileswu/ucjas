@@ -1,2 +1,16 @@
 "theme-bootstrap-2" :
   "use" : "theme"
+
+uchi-con:
+  layout: uchi-con
+
+media-src:
+    use: ignore
+
+uchi-con-posts:
+  layout: uchi-con-posts
+  "sort" : ["date", "desc"]
+  permalink : '/uchi-con/posts/:title'
+  paginator :
+      url : '/uchi-con/posts/'
+      layout: uchi-con-root

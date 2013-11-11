@@ -35,7 +35,7 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="{{urls.base_path}}">{{ data.title }}</a>
+          <a class="brand" href="{{urls.base_path}}">UofC Japanese Animation Society</a>
           <ul class="nav">
             {{# data.navigation?to__root }}
               {{> pages_list }}
@@ -48,14 +48,13 @@
     <div class="container-narrow">
 
       <div class="content">
+		{{ page.myvar }}
         {{{ content }}}
       </div>
 
       <hr>
       <div class="footer">
         <p>&copy; {{ data.author.name }} 2013
-          with help from <a href="http://ruhoh.com" target="_blank" title="The Definitive Technical Blogging Framework">ruhoh</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </div>
 

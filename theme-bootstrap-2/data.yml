@@ -1,15 +1,19 @@
-title : Site Title
-tagline: Site Tagline
 author :
-  name : First-name Last-name
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : University of Chicago Japanese Animation Society.
 
 navigation :
-  - archive
-  - tags
-  - categories
-  - pages
   - about
+  - screenings
+  - specialevents
+  - officers
+ 
+uchicon_navigation :
+  - registration
+  - speakers
+  - events
+  - cafes
+  - artistalley
+  - location
+  - rules
+  - staff
+
