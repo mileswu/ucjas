@@ -33,7 +33,7 @@ Time TBD
 3rd Floor Theater  
 Strut your stuff!  
 Have a fabulous costume?  
-Signups will be up early January  
+Signup [here](https://docs.google.com/forms/d/103tAEmx9JzTXVSqXgFjIC0OFbI2qosGeW6yH-cyFeu8/viewform)
  
 ##Raffle Room
 10am – 6pm  
