@@ -4,7 +4,8 @@ title: 'Artist Alley'
 
 ## Sign up
 
-If you are interested in having a table at our artist alley, please fill out this [signup form](https://docs.google.com/forms/d/14JmxUQt7IgAGaJCOHJitgWSdMy_Z3QDbHZH-i1igRo8/viewform).
+Unfortunately as of December 9th 2013, Artist alley is now full and we are no longer taking any new reservations.
+Thank you for your interest and we are sorry that we do not have any more space.
 
 - All items sold must be made by you or a team member (if any).
 - Items must hold to the PG-13 rule. We reserve to right to pull things if they are inappropriate.
