@@ -73,6 +73,24 @@ h2 {
 	margin-top: 20px;
 }
 
+h4 {
+	font-size: 100%;
+}
+
+td {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+td, table, th {
+	background-color: white;
+	border: 1px solid rgb(180, 180, 180);
+}
+
+th {
+	background-color: hsl(120,60%,80%);;
+}
+
 span.date {
 	font-size: 55%;
 	color: rgb(100, 100, 100);
