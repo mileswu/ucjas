@@ -84,18 +84,18 @@ Panel room B: 3rd Floor Theater
     </tr>
     <tr>
 		<td>3pm</td>
-		<td></td>
+		<td>n/a</td>
 		<td>Auteurs in Anime: Visions in Anime</td>
     </tr>
     <tr>
 		<td>4pm</td>
-		<td></td>
+		<td>n/a</td>
 		<td>Sburb Anonymous</td>
     </tr>
 	
     <tr>
 		<td>5pm</td>
-		<td></td>
+		<td>n/a</td>
 		<td>Beforus Anonymous</td>
     </tr>
 </table>
