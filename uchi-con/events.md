@@ -29,7 +29,7 @@ Cash only (bring change).
 Sample menu is available [here](/uchi-con/cafes).  
  
 ##Cosplay Contest
-2am  
+2pm  
 1st Floor, Max Palevsky Cinema  
 Strut your stuff!  
 Have a fabulous costume?  
